@@ -51,7 +51,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=actuallyakshay&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vinaydigarse&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -63,7 +63,7 @@
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Akshay_Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-rajput-422794220/)
-[![Github](https://img.shields.io/badge/Akshay_Rajput-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/actuallyakshay)
+[![linkedin](https://img.shields.io/badge/Vinay_Digarse-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-digarse-a983051a0/)
+[![Github](https://img.shields.io/badge/Vinay_Digarse-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinaydigarse)
 
-© 2022 Akshay Rajput
+© 2023 Vinay Digarse
