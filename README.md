@@ -26,7 +26,7 @@
 ## 🌐 Socials:
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-rajput-422794220/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-digarse-a983051a0/) 
 
 </br>
 </br>
@@ -42,12 +42,12 @@
 
 
 
-<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=actuallyakshay&theme=nord&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)" alt="actuallyakshay" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=actuallyakshay&count_private=true&theme=nord&hide_border=true&border_radius=10" alt="actuallyakshay" /></p>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyakshay&layout=compact&theme=nord&hide_border=true&border_radius=10' />
+<p align="left"><img align="center" src="https://streak-stats.demolab.com/?user=vinaydigarse&theme=nord&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)" alt="vinaydigarse" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaydigarse&count_private=true&theme=nord&hide_border=true&border_radius=10" alt="vinaydigarse" /></p>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vinaydigarse&layout=compact&theme=nord&hide_border=true&border_radius=10' />
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=actuallyakshay&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vinaydigarse&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🏆 GitHub Trophies
