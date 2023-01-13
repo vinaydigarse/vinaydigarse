@@ -27,7 +27,7 @@
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-digarse-a983051a0/) 
-[![Instagram](https://img.shields.io/badge/Instagram-#6559ca#bc318f30%#e33f5f50%#f7763870%#fec66d100%.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/vinay-digarse-a983051a0/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/vinay-digarse-a983051a0/)
 
 </br>
 </br>
