@@ -6,7 +6,7 @@
 </p>
   </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=actuallyakshay&label=Profile%20views&color=0e75b6&style=flat" alt="actuallyakshay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaydigarse&label=Profile%20views&color=0e75b6&style=flat" alt="actuallyakshay" /> </p>
 
 
 
