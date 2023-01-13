@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Rajput</h1>
+<h1 align="center">Hi 👋, I'm Vinay Digarse</h1>
 <div display="flex", flex-direction="column">
 <h3 align="center">A Passionate & Enthusiastic Mern Stack Developer who loves solving problems and building projects. I am equipped with a variety of technologies and tools to help me build the best possible product.</h3>
 <p align="center">
@@ -10,17 +10,15 @@
 
 
 
-- 👨‍💻 I’m currently working on **Facebook clone**
-
 - 🌱 I’m currently learning **nextjs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React JS, Redux, Node JS, Express JS, MongoDB, Chakra-ui, tailwind-css, Data Structure and Algorithm**
 
-- 📫 How to reach me **akshay.rajput1197@gmail.com** | | ***+91-9568950421***
+- 📫 How to reach me **vinaydigarse1@gmail.com** | | ***+91-9752990912***
 
-- 📑Resume https://drive.google.com/file/d/1EuW5RhkyvN0Rpxh11jdncPZXOr5N6fqu/view?usp=sharing
+- 📑Resume https://drive.google.com/file/d/1rg9Es0EaV6k6Q1_V8Ran_WOoh5VmY4SW/view?usp=sharing
 
-- 🎓 Portfolio https://actuallyakshay.github.io/
+- 🎓 Portfolio https://vinaydigarse.github.io/
 
 </br>
 
