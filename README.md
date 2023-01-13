@@ -27,7 +27,8 @@
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-digarse-a983051a0/) 
-[![Instagram](https://img.shields.io/badge/Instagram.svg?logo=Instagram)](https://www.linkedin.com/in/vinay-digarse-a983051a0/) 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram%.svg?logo=Instagram)](https://www.linkedin.com/in/vinay-digarse-a983051a0/)  -->
+<a href="https://instagram.com/@luvlite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luvlite" height="30" width="40" /></a>
 
 </br>
 </br>
